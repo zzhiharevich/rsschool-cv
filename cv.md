@@ -4,13 +4,16 @@ Aleksandra Zhiharevich
 
 # **Contact info:** 
 *******************
-*phone:* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+375(29) 761-79-19
-*mail:* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;izhukharevich@icloud.com
+*phone:* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+375(29) 761-79-19  
+
+*mail:* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;izhukharevich@icloud.com  
+
 *VK:*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://vk.com/zzhiharevich
 
 # **Education**
 ***************
-Belarusian State University (BSU),
+Belarusian State University (BSU),  
+
 Faculty of Applied Mathematics and Computer Science (FAMCS)
 
 # **Languages**
