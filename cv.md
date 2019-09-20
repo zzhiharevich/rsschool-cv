@@ -24,6 +24,6 @@ Faculty of Applied Mathematics and Computer Science (FAMCS)
 - Swift
 - Pyton
 
-# **My last progect**
+# **My last project**
 ************************
 To practice in *HTML&CSS* I've tried to complete task from RSSChool *css-recipes-and-layouts*. This is link to my [git repository](https://github.com/zzhiharevich/css-recipes-and-layouts).
