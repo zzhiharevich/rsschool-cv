@@ -8,14 +8,13 @@ Aleksandra Zhiharevich
 
 *mail:* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;izhukharevich@icloud.com  
 
-*VK:*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://vk.com/zzhiharevich
+*VK:*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://vk.com/zzhiharevich  
+
 *GitHub:*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/zzhiharevich
 
 # **Education**
 ***************
-- 2017 - 2021  -- Belarusian State University (BSU),  
-
-Faculty of Applied Mathematics and Computer Science (FAMCS)
+- 2017 - 2021  -- Belarusian State University,Faculty of Applied Mathematics and Computer Science
 - September 2018 -- RSSChool first stage
 - July - August 2019 -- iTransition courses in Java
 - HTMLacademy courses of HTML & CSS
