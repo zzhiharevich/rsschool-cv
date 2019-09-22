@@ -49,3 +49,4 @@ Last online language level test - B1.
 
 # **Why I want to study at RSSChool?**
 ***
+I came to the conclusion that I want to develop in the front-end direction. The ultimate goal for myself is to get a job in the specialty of a front-end developer. As I know, RSSchool provides a very strong base and knowledge, so I am ready to learn and practice a lot in order to bring out as many benefits as possible for myself.
