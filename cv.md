@@ -47,6 +47,6 @@ To practice in *HTML & CSS* I've tried to complete task from RSSChool *css-recip
 From 2011 to 2016 I took Streamline *English* courses and received certificate of B2 level, but I have not had a good practice for a long time, so now I am trying to get back the level by watching lectures, films in English and reading documentation.  
 Last online language level test - B1.
 
-# **Why I want to study at RSSChool?**
+# **Why I want to study at RSSchool?**
 ***
 I came to the conclusion that I want to develop in the front-end direction. The ultimate goal for myself is to get a job in the specialty of a front-end developer. As I know, RSSchool provides a very strong base and knowledge, so I am ready to learn and practice a lot in order to bring out as many benefits as possible for myself.
