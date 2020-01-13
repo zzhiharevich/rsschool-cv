@@ -1,0 +1,52 @@
+# **My name:**
+**************
+Aleksandra Zhiharevich
+
+# **Contact info:** 
+*******************
+*phone:* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+375(29) 761-79-19  
+
+*mail:* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;izhukharevich@icloud.com  
+
+*VK:*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://vk.com/zzhiharevich  
+
+*GitHub:*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/zzhiharevich
+
+# **Education**
+***************
+- *2017 - 2021:* Belarusian State University,Faculty of Applied Mathematics and Computer Science
+- *September 2018:* RSSChool first stage
+- *July - August 2019:* iTransition courses in Java
+- HTMLacademy courses of HTML & CSS
+- Codeacademy courses of HTML & CSS
+
+# **Skills**
+************
+### Programming languages
+
+- Java
+- JavaScript
+- Python
+- SQL
+- HTML & CSS
+
+### Version control
+- basic knowledge of **git**
+
+### Knowledge of...
+- Algorithms
+- Design Patterns
+- Database
+
+# **My last project**
+************************
+To practice in *HTML & CSS* I've tried to complete task from RSSChool *css-recipes-and-layouts*. This is link to my [git repository](https://github.com/zzhiharevich/css-recipes-and-layouts).
+
+# **Languages**
+**************
+From 2011 to 2016 I took Streamline *English* courses and received certificate of B2 level, but I have not had a good practice for a long time, so now I am trying to get back the level by watching lectures, films in English and reading documentation.  
+Last online language level test - B1.
+
+# **Why I want to study at RSSchool?**
+***
+I came to the conclusion that I want to develop in the front-end direction. The ultimate goal for myself is to get a job in the specialty of a front-end developer. As I know, RSSchool provides a very strong base and knowledge, so I am ready to learn and practice a lot in order to bring out as many benefits as possible for myself.
